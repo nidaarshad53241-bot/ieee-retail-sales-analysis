@@ -39,8 +39,8 @@ python main.py
 
 **Data cleaning output:**
 
-![Cleaning Output](cleaning_output.png)
+![Cleaning Output](screenshots/cleaning_output.png)
 
 **Summary report:**
 
-![Terminal Output](summary_report.png)
+![Terminal Output](screenshots/summary_report.png)
